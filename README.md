@@ -1,3 +1,4 @@
+# 使用者标记：该项目由于不可抗力，目前处于休眠运转状态，请知悉!
 # AutoApi v6.4 (2021-2-21) ———— E5自动续期
 AutoApi系列：~~AutoApi(v1.0)~~、~~AutoApiSecret(v2.0)~~、~~AutoApiSR(v3.0)~~、~~AutoApiS(v4.0)~~、~~AutoApiP(v5.0)~~
 
